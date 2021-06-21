@@ -19,7 +19,7 @@ Sentiment Analysis in user's purchase feedback
 ![image](https://user-images.githubusercontent.com/55548345/122801481-5da3d700-d2ee-11eb-9abb-5ff429c4a18b.png)
 
 ## Dataset
-From Sentiment Analysis contest AiViVN 2019
+Sentiment Analysis contest AiViVN 2019
 
 ## Run demo with flask
 ```
