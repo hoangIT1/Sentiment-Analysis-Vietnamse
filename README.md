@@ -21,6 +21,17 @@ Sentiment Analysis in user's purchase feedback
 ## Dataset
 Sentiment Analysis contest AiViVN 2019
 
+## Model
+
+* BERT
+```
+Run BERT.ipynb
+```
+* Machine learning Model and LSTM model
+```
+Run MLmodel_LSTMmodel.ipynb
+```
+
 ## Run demo with flask
 ```
 Run Demo.ipynb
